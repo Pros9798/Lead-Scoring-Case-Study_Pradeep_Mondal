@@ -6,17 +6,32 @@ In summary, X Education desires a model that can accurately predict lead convers
 
 # To build a lead scoring model for X Education, one can follow these steps:
 1.Data Loading
+
 2.Data Exploration (EDA)
+
 3.Preprocessing
+
 4.Feature Engineering
+
 5.Outlier Analysis
+
 6.Splitting Data into Train and Test Set
+
 7.Model Building
+
 8.Model Performance Benchmarking
+
 9.Model Performance Evaluation
+
 10.Cross Validation + Hyperparameter Tuning
+
 11.Model Diagnosis Using Probability Calibration, ROC AUC Curve, Precision-Recall Curve
+
+
 12.Making Predictions
+
 13.Prediction on Test Set
+
 14.Precision-Recall
+
 By following these steps, X Education can develop a robust lead scoring system that helps prioritize leads with the highest conversion potential, ultimately improving the efficiency of their sales process.
