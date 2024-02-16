@@ -5,8 +5,9 @@ X Education, an online education company, faces challenges with its lead convers
 In summary, X Education desires a model that can accurately predict lead conversion probabilities, facilitating targeted sales strategies and improving overall conversion rates.
 
 # To build a lead scoring model for X Education, one can follow these steps:
-Data Loading
-Data Exploration (EDA)
+1.Data Loading
+
+2.Data Exploration (EDA)
 Preprocessing
 Feature Engineering
 Outlier Analysis
